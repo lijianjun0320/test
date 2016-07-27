@@ -1,1 +1,2 @@
 my test for git.
+my test for git add by juneli 2016-07-27
